@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(144, 32, 235);
+}
+#wapper{
+    display: flex;
+    margin-top: 6cm;
+    justify-content: center;
+    justify-items: center;
+    background-color: aliceblue;
+    margin: 300px 300px 200px 300px;
+}
+.image{
+    display: block;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+.Login{
+    line-height: 1cm;
+}
+.emai{
+    border-radius: 2px;
+}
+.pass{
+    border-radius: 2px;
+}
+.button{
+    border-radius: 2px;
+}
